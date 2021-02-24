@@ -1,0 +1,15 @@
+{
+  "name": "disastertap",
+  "version": "1.0.0",
+  "description": "Web application for natural disaster map software interface",
+  "main": "eonet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.2.9",
+    "request": "^2.88.2"
+  }
+}
